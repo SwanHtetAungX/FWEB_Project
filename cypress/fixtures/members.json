@@ -1,0 +1,48 @@
+[{
+    "id": "65a3a465c4a53b8f3b49d769",
+    "name": "Swan Htet Aung",
+    "email": "2200200J@student.tp.edu.sg",
+    "role": "Main Committee",
+    "approvalStatus": "Approved",
+    "profileImg": "https://cca-management.s3.ap-southeast-1.amazonaws.com/56b02462-bcf2-42ee-a98e-dc31cf74a122.jpeg",
+    "password": "$2b$10$gSlBMHBXeiZHI6lbNGxMBullBeMx8e/KGBzFzMH8pUn2p6foNU6B.",
+    "joinedDate": "2022-01-14\n",
+    "reason": "",
+    "twoFactorCode": 503747,
+    "twoFactorExpiration": "2024-02-04T08:27:01.676Z"
+ },
+ {
+    "id": "65a3fec17f974eaa22289f3b",
+    "name": "John",
+    "email": "john@gmail.com",
+    "role": "Sub Committee",
+    "approvalStatus": "Approved",
+    "profileImg": "https://cca-management.s3.ap-southeast-1.amazonaws.com/8e242a43-7b4a-43d8-9740-4b19e948e922.gif",
+    "password": "$2b$10$H1vmCs10rmJ43P2dOCuDwusxqoDeCe77WLH4haffL9UWTRthO8Ydq",
+    "joinedDate": "2022-01-14",
+    "reason": null
+   },
+   {
+    "id": "65a3ff897f974eaa22289f3c",
+    "name": "Chaw",
+    "email": "chaw@gmail.com",
+    "role": "Sub Committee",
+    "approvalStatus": "Approved",
+    "profileImg": "https://cca-management.s3.ap-southeast-1.amazonaws.com/fce0c952-706f-465d-a3b0-c65ccfb3f7da.jpeg",
+    "password": "$2b$10$fyTzhc4AYqmkOKYSX0hBauMx3wrQtWmVO6Fdw9NDoloh8Vg6xVKf.",
+    "joinedDate": "2024-01-14",
+    "reason": null
+   },
+   {
+    "id": "65a4015fe8ebcd444bd1f46e",
+    "name": "Chit",
+    "email": "chit@gmail.com",
+    "role": "Sub Committee",
+    "approvalStatus": "Pending",
+    "profileImg": "https://cca-management.s3.ap-southeast-1.amazonaws.com/64b42ccd-ffcb-464e-b574-71a59a65b6a1.gif",
+    "password": "$2b$10$VcXe/f7hAMIzO/Ecuj8H6.q7L/GCmO8gWhK1OMvoYz/S6IeW9hwpS",
+    "joinedDate": "2024-01-14",
+    "reason": null
+   }
+
+]
